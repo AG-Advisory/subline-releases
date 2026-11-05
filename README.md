@@ -2,7 +2,7 @@
 
 **Learn languages with YouTube.** Subline shows a video next to a clean, dialogue-style transcript that follows the audio word by word. You can organize videos in folders and save vocabulary as you watch.
 
-This repository holds only the downloads and release notes.
+This repository holds only the downloads and release notes. Website: https://subline-evk.pages.dev/
 
 ## Download
 
