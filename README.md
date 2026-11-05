@@ -6,11 +6,11 @@ This repository holds only the downloads and release notes.
 
 ## Download
 
-- **Apple silicon** (M1 and later): [Subline-arm64.dmg](https://github.com/arthurG26/subline-releases/releases/latest/download/Subline-arm64.dmg)
-- **Intel**: [Subline-x64.dmg](https://github.com/arthurG26/subline-releases/releases/latest/download/Subline-x64.dmg)
+- **Apple silicon** (M1 and later): [Subline-arm64.dmg](https://github.com/AG-Advisory/subline-releases/releases/latest/download/Subline-arm64.dmg)
+- **Intel**: [Subline-x64.dmg](https://github.com/AG-Advisory/subline-releases/releases/latest/download/Subline-x64.dmg)
 
 You need macOS 13 or later, and [yt-dlp](https://github.com/yt-dlp/yt-dlp) for reading YouTube captions (`brew install yt-dlp`). Open the disk image and drag Subline to Applications. The app updates itself.
 
 Subline is free for 7 days, with no account and no card. After that, buy a license once to keep using it on up to 3 Macs.
 
-All versions and their notes are on the [releases page](https://github.com/arthurG26/subline-releases/releases).
+All versions and their notes are on the [releases page](https://github.com/AG-Advisory/subline-releases/releases).
